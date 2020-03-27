@@ -7,7 +7,7 @@
 <title>Reddy</title>
 </head>
 <body bgcolor="cyan">
-<h1>Welcome To Spring Boot Controller.....!</h1>
+<h1>Welcome To Spring project.....!</h1>
 <hr>
 </body>
 </html>
