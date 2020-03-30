@@ -1,0 +1,12 @@
+this file used for local repository.
+g
+/
+
+
+
+
+
+$git status
+
+clear
+cd ..
