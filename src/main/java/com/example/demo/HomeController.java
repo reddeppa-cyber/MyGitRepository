@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class HomeController {
 
-	@GetMapping("/show")
+	@GetMapping(value="/show")
 	public String showHomePage() {
 		return "firstpage";
 	}
